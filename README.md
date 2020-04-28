@@ -1,7 +1,7 @@
 # kbone-demo21
 
 ## INSTALL
--- yarn
+- yarn
 
 ## RUN
--- yarn mp
+- yarn mp
